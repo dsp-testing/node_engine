@@ -15,8 +15,8 @@
     "lint": "eslint ."
   },
   "engines": {
-    "node": ">=7.6",
-    "npm": ">=6.0.0"
+    "node": "<=7.6",
+    "npm": "<=6.0.0"
   },
   "license": "MIT"
 }
